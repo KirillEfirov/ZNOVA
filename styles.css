@@ -125,6 +125,13 @@ img.logo {
   text-align: left;
 }
 
+.about .grom {
+  width: 400px;
+  height: auto;
+  float: right;
+  margin: 0 0 1em 1em;
+}
+
 .contact-info {
   /* border: 2px solid red; */
   gap: 20px;

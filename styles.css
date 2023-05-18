@@ -121,8 +121,12 @@ img.logo {
   width: auto;
 }
 
-.about h1, .goods h1, .contacts h1 {
+.about h1, .goods h1, .contacts h1, .start h1 {
   text-align: left;
+}
+
+.about h1, .goods h1, .start h1 {
+  margin-top: 60px;
 }
 
 .about .grom {
